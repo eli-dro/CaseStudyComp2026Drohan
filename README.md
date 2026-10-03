@@ -1,2 +1,2 @@
-# CaseStudyComp2026Drohan
+# Case_Study_Comp_2026_Drohan
 Contains final deliverable and related files for the 2026 Case Study Competition. Work was done by Eli Drohan and team members. This project was centered around creating a pricing plan for an "intergalactic mining company". Although this project had a huge learning curve, and I would definitely do it differently in retrospect, my group and myself learned a lot. The process of fitting parametric probability distributions to payout events was challenging and rewarding, and learning how to properly include coverage triggers, benefit structures, and other aspects was really interesting.
